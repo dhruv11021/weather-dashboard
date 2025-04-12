@@ -1,4 +1,4 @@
-#Deploayed link https://weather-dashboard-alpha-pied.vercel.app/
+#Deployed link https://weather-dashboard-alpha-pied.vercel.app/
   
   # Weather Dashboard 🌤️
 
