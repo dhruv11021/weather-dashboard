@@ -1,4 +1,6 @@
-# Weather Dashboard 🌤️
+#Deploayed link https://weather-dashboard-alpha-pied.vercel.app/
+  
+  # Weather Dashboard 🌤️
 
 A dynamic weather app built with the MERN stack that fetches real-time weather data based on city input. Includes interactive UI and adaptive backgrounds based on current weather conditions.
 
