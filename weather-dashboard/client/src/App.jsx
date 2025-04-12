@@ -15,7 +15,8 @@ const App = () => {
     setError(null);        // Reset any prior errors
 
     try {
-      const response = await axios.get(`/weather?city=${city}`, {
+      const response = await axios.get(`https://weather-dashboard-hjx9.onrender.com/weather?city=${city}`, {
+
         headers: {
           'Cache-Control': 'no-cache', // Prevent caching during development
         },
